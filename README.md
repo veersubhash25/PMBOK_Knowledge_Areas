@@ -24,6 +24,16 @@ IIT Hyderabad
 
 [Repository Link](https://github.com/Rohith-saidugari/PMBOK_Knowledge_Areas/)
 
+## Working together as a team
+
+Working together as a team:
+We will be communicating via outlook email to create and schedule standup meetings and Skype for business to share the documents or have virtual discussions. We will meet between 4:30 p.m. to 5:30 p.m. by booking a library meeting room daily for the standup meetings. We will prepare a document with all the contact information like role and email-id’s of all the stakeholders involved and share it across the team via a cloud service like drop box or google drive. 
+If a team member is not participating, one of us (may be the project manager) will take a lead and have in-person discussions to know if that person has any concerns with other team members, or lack of confidence to participate and act accordingly to resolve the issue and make him/her involve going forward. If the participation doesn’t improve even further, we would escalate this up the hierarchy (in this case, Professor).
+
+
+##Roles and Responsibilites :
+
+
 ## Stakeholder Register:
 
 ### Prepared by: Sharadruthi Beerkuri &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Date: 05/17/2019
