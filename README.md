@@ -22,3 +22,5 @@ IIT Hyderabad
  
 ![SRDB](https://raw.githubusercontent.com/Rohith-saidugari/PMBOK_Knowledge_Areas/master/docs/Logo.PNG "SRDB")
  
+
+[Repository Link](https://github.com/Rohith-saidugari/PMBOK_Knowledge_Areas/)
