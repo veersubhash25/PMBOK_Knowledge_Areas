@@ -15,6 +15,12 @@ IIT Hyderabad wants change their existing teaching process to adaptive learning 
 
 ## Client: 
 IIT Hyderabad 
+
+![IIT Hyderabad](https://raw.githubusercontent.com/Rohith-saidugari/PMBOK_Knowledge_Areas/master/docs/IITH.jpg "IITH")
  
 ## Team Logo:
  
+![SRDB](https://raw.githubusercontent.com/Rohith-saidugari/PMBOK_Knowledge_Areas/master/docs/Logo.PNG "SRDB")
+ 
+
+[Repository Link](https://github.com/Rohith-saidugari/PMBOK_Knowledge_Areas/)
