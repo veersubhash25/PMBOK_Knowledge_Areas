@@ -24,3 +24,5 @@ IIT Hyderabad
  
 
 [Repository Link](https://github.com/Rohith-saidugari/PMBOK_Knowledge_Areas/)
+
+Bharath Kumar Kanagala
