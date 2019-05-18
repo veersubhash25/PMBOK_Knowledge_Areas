@@ -24,12 +24,9 @@ IIT Hyderabad
 
 [Repository Link](https://github.com/Rohith-saidugari/PMBOK_Knowledge_Areas/)
 
-Bharath Kumar Kanagala
-Sharadruthi Beerkuri
-
 ## Stakeholder Register:
 
-### Prepared by: Sharadruthi Beerkuru &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Date: 05/17/2019
+### Prepared by: Sharadruthi Beerkuri &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Date: 05/17/2019
 
 <table>
   <tr>
