@@ -81,7 +81,7 @@ To create a simple website which helps in learning Project Management.
 # Stakeholder Register:
 
 
-### Prepared by: Sharadruthi Beerkuri &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Date: 05/17/2019
+### Prepared by: Sharadruthi Beerkuri &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Date: 05/17/2019
 
 <table>
   <tr>
